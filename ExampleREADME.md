@@ -8,28 +8,34 @@
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
+  * [License](#license)
+
   ## Installation
   
-  intall steps
+  DGDGD
+  
   ## Usage 
   
+  DGDD
   
-  usage steps
+  ## Contributing
+  
+  GDDGGDDD
   
   ## Tests
   
-  testsz
+  DDDDDDDDDDDDDDDD
   
   ## License
   
-  none
+  SSSSSSSSSSSSSSSSSSSSSSS
   
   ---
   
   ## Questions?
   Questions? please contact me:
  
-  GitHub: [@wattierdan]
+  GitHub: [wattierdan](https://github.com/wattierdan)
   
   Email: wattierdan@live.com
   

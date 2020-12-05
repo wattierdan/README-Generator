@@ -35,34 +35,33 @@ function generateMarkdown(userResponses) {
   
   genMarkdown +=
   `
+
   ## Installation
   
-  ${userResponses.installation}`
+  ${userResponses.installation}
+  `
   };
   
   //Usage section
   if (userResponses.usage !== '') {
   
   genMarkdown +=
-  
   `
   ## Usage 
-  
   
   ${userResponses.usage}`
   };
   
-  
   //Contributing section
   if (userResponses.contributing !== '') {
+
+  genMarkdown +=
   `
   
   ## Contributing
   
-  
   ${userResponses.contributing}`
   };
-  
 
   //Tests section
   if (userResponses.tests !== '') {
@@ -75,7 +74,6 @@ function generateMarkdown(userResponses) {
   ${userResponses.tests}`
   };
 
-
   // License section
   genMarkdown +=
   `
@@ -85,7 +83,6 @@ function generateMarkdown(userResponses) {
   ${userResponses.license}
   `;
 
-
   // Questions section
   let devInfo = 
   `
@@ -94,7 +91,7 @@ function generateMarkdown(userResponses) {
   ## Questions?
   Questions? please contact me:
  
-  GitHub: [@${userResponses.username}]
+  GitHub: [${userResponses.username}](https://github.com/${userResponses.username})
   `;
 
   // If email is not null, add to Question section
