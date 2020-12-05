@@ -1,11 +1,12 @@
-# README.md
+# README.md Generator
   
   ## Description 
   
-  Project Description
+  Who likes writing out and formating README's? I sure don't! Here is a simple README generator to make your life a little easier.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Questions](#questions)
 
   ## Installation
   
