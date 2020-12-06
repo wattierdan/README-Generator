@@ -15,8 +15,14 @@
   Application can be ran by typing `node index.js` in the terminal. 
   
   ## Usage 
-  
-  Vid will go here
+
+  Run the application in the terminal using `node index.js`. 
+
+  You will be prompted to answer questions that make up the diffent sections of the to be generated README file.
+
+  After all the questions have been answered your README document will be generated.
+
+  [video](https://drive.google.com/file/d/1b39hkhdN-bMC2XRmd2GxFouEFzwljgV_/preview) on how to use the thing if you still not quite sure. 
   
   ## Questions?
   Questions? please contact me:

@@ -1,8 +1,8 @@
-# README.md
+# Example Project
   
   ## Description 
   
-  Project Description
+  description of your project goes here
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,23 +12,23 @@
 
   ## Installation
   
-  DGDGD
+  steps on how to install go here
   
   ## Usage 
   
-  DGDD
+  how to use the thing goes here
   
   ## Contributing
   
-  GDDGGDDD
+  how others can contribute goes here
   
   ## Tests
   
-  DDDDDDDDDDDDDDDD
+  and any tests can go here
   
   ## License
   
-  SSSSSSSSSSSSSSSSSSSSSSS
+  license info goes here
   
   ---
   
