@@ -1,8 +1,11 @@
 # README.md Generator
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<<<<<<< HEAD
 
 ![Webpage Screenshot](./assets/readme-gen-gif.gif)
+=======
+>>>>>>> d8e5861ef23194e537c28e5683a6d98484140f62
   
   ## Description 
   
