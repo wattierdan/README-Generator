@@ -3,9 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-![Webpage Screenshot](./assets/readme-gen-gif.gif)
 
-  
   ## Description 
   
   Who likes writing out and formating README's? I sure don't! Here is a simple README generator to make your life a little easier.
@@ -21,6 +19,8 @@
   Application can be ran by typing `node index.js` in the terminal. 
   
   ## Usage 
+  
+  ![Webpage Screenshot](./assets/readme-gen-gif.gif)
 
   Run the application in the terminal using `node index.js`. 
 
